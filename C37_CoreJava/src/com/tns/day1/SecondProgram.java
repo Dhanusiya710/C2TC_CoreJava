@@ -1,5 +1,5 @@
 package com.tns.day1;
 
-public class Secondprogram {
+public class SecondProgram {
 
 }
